@@ -26,7 +26,7 @@ Note:
 - This app is for demonstration purposes only and does not handle real-world reservations or payments.
 
 Contributors:
-- 20205027
-- 20205029
+- zeyad.sayed15.zs@gmail.com
+- ahmed.ussef248@gmail.com
 - 20205040
 - 20205041
