@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wedding Planner 2.0</string>
+    <string name="place_prompt">Select a place</string>
+    <string name="food_type_prompt">Select a food type</string>
+    <string name="place_label">Place:</string>
+    <string name="food_type_label">Food Type:</string>
+    <string name="details_label">Details:</string>
+    <string name="details_hint">Enter details here</string>
+    <string name="select_photos_button">Select Photos</string>
+    <string name="submit_button">Submit</string>
+    <string name="offer_placeholder">Offer: Venue: %1$s, Food Type: %2$s, Details: %3$s</string>
+</resources>

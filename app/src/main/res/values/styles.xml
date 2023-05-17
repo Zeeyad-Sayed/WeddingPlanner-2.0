@@ -1,0 +1,11 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#008080</item>
+        <item name="colorPrimaryVariant">#215D6E</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorAccent">#008080</item>
+        <item name="android:windowBackground">@color/white</item>
+
+    </style>
+
+</resources>

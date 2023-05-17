@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="place_options">
+        <item>Royal Lily</item>
+        <item>Khan ElKalily Wedding Venue</item>
+        <item>villa la riva</item>
+        <item>Royal Mohamed Ali Club</item>
+        <item>Revana Wedding on the nile</item>
+        <item>Raz Garden</item>
+        <item>Villa Al Bashari</item>
+        <item>Villa jamal</item>
+    </string-array>
+
+    <string-array name="food_type_options">
+        <item>Brunch Bar</item>
+        <item>Popcorn Table</item>
+        <item>Pizza Platter</item>
+        <item>Taco Table</item>
+        <item>Donut Station</item>
+        <item>Salad Bar</item>
+    </string-array>
+</resources>
