@@ -7,7 +7,6 @@ public class Offer {
     private String details;
 
     public Offer(String place, String foodType, String details) {
-        //this.id = id;
         this.place = place;
         this.foodType = foodType;
         this.details = details;
@@ -34,10 +33,6 @@ public class Offer {
 
     public String getDetails() {
         return details;
-    }
-
-    public String getName() {
-        return place;
     }
 
     public void setId(int id) {

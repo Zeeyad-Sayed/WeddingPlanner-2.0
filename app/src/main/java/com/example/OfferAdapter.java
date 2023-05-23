@@ -33,7 +33,7 @@ public class OfferAdapter extends RecyclerView.Adapter<OfferAdapter.OfferViewHol
     @Override
     public void onBindViewHolder(@NonNull OfferViewHolder holder, int position) {
         Offer offer = offers.get(position);
-        holder.offerNameTextView.setText(offer.getName());
+        holder.offerNameTextView.setText(offer.getPlace());
         holder.offerDetailsTextView.setText(offer.getDetails());
     }
 
